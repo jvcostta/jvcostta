@@ -6,7 +6,7 @@
 - 💻 venho apredendo Python, C++/C, JavaScript, HTML, CSS, POO e React
 - 🎤 tenho sido comunicativo e gostado de aprender coisas novas
 - 🔎 procurando oportunidades de provar meu valor
-- ⚡ Fato curioso: gosto de empreender e de investir na bolsa de valoreres
+- ⚡ Fato curioso: gosto de empreender e de investir na bolsa de valores
 
 ### Contato
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-costa-9b252a207/)
