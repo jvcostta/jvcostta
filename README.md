@@ -5,8 +5,8 @@
 ##
 
 - 💻 Software engineer student at University of Brasilia
-- 📖 I've been learning Python and JavaScript for AI and C++/C for games
-- ⚡ React / VueJs
+- 📖 I've been learning Python and JavaScript for AI and C++/C, C# for games
+- ⚡ LangChain / React / VueJs
 - 👾 Always learning new technologies and ways to solve software problems
 
 ##
