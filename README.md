@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0bebc56E&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hey!+I+am+Costta;Software+Engineer;Welcome!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hey!+I+am+João+Costa;Software+Engineer;Welcome!;)](https://git.io/typing-svg)
 
 ##
 
-- 💻 Software engineer student at University of Brasilia
-- 📖 I've been learning Python and JavaScript for AI and C++/C, C# for games
-- ⚡ LangChain / React / VueJs
-- 👾 Always learning new technologies and ways to solve software problems
+- 💻 Software engineer student at University of Brasilia (9/10)
+- 📖 I'm a full-stack developer focused on Artificial Intelligence and Data Analytics applied to intelligent process automation. I develop autonomous agents and workflows using Python, Pandas, LangChain, CrewAI, Hugging Face, N8N, and LLM models integrated into pipelines. I also work with API integrations in FastAPI and .NET with C#, connecting to the front-end in JavaScript (React.js and Vue.js). I work with agile methodologies (Scrum) and Git/GitHub, focusing on organized, scalable, and efficient deliveries.
+- ⚡ Python, JavaScript, C#, C/C++, Vue.js, React, FastAPI, ASP.NET, LLMs, Machine Learning, Deep Learning, Pandas, Spark e Power BI, CI/CD, Docker
+- 👾 Always learning new technologies and looking for opportunities in projects involving AI, automation, and innovative, purpose-driven solutions.
 
 ##
 
@@ -28,12 +28,11 @@
 
 ##
 
-<!--<div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jvcostta}/count.svg" /></p> 
-<br>
-</div>
--->
+### Experience
+
+- :books: Estudante de Engenharia de Software - UnB.
+- 🔭  FullStack Developer IA on Pagglo. 
+
 
 ![Snake animation](https://github.com/GuilhermeSoaress/GuilhermeSoaress/blob/output/github-contribution-grid-snake.svg)
 
